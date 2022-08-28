@@ -157,7 +157,7 @@ def vif_cal(input_data):
 vif_cal(X)
 
 
-# In[ ]:
+
 
 
 
@@ -347,7 +347,6 @@ for i in cutoff_list:
     print('Our Precision score is {:.2f}'.format(test_precision_score))
 
 
-# In[ ]:
 
 
 
